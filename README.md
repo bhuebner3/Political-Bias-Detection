@@ -18,6 +18,8 @@ This project was performed in partnership with the Austrian newspaper, derStanda
 - User location was assigned based on the users most frequently occuring location.
 
 This plot displays the location where users are accessing articles on the derStandard website.
+![austria_map](https://github.com/bhuebner3/Political-Bias-Detection/assets/73898316/576e97bb-dc8c-42cf-9000-0960816cebc0)
+
 
 ### Political Lean Prediction
 - The political lean of each article was predicted using a pre-trained machine learning model (`valurank/distilroberta-mbfc-bias`).
@@ -30,11 +32,13 @@ This plot displays the location where users are accessing articles on the derSta
 - A comprehensive analysis was conducted to explore the reading behaviors of readers across Austria, focusing on their preferences for articles with different political leans.
 
 The following plot shows the predicted political lean by category. Note: blue and red indicate right and left leaning, respectively, as is represented in Austrian politics.
-![pol_lean_category](https://github.com/bhuebner3/Political-Bias-Detection/assets/73898316/2f9d09ec-f367-4b80-b77e-e5da1d2630c5)
+
+![pol_lean_category](https://github.com/bhuebner3/Political-Bias-Detection/assets/73898316/5381cc25-7af8-4068-a8e7-f099d5b10f84)
 
 The next plot shows the political lean of articles read at different locations in Austria. Although the locations do not show a clear connection with political lean, this may be a result of how the location data is collected, the translation to English affecting the predictions, or other possibilities.
 
-![pol_lean_city](https://github.com/bhuebner3/Political-Bias-Detection/assets/73898316/46ba43c6-f793-4daf-ba25-7f2e6ca99a7d)
+![pol_lean_city](https://github.com/bhuebner3/Political-Bias-Detection/assets/73898316/b358d295-cdc6-4763-9fd8-6e7c99e29a61)
+
 
 
 ## Results
