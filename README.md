@@ -47,3 +47,5 @@ The next plot shows the political lean of articles read at different locations i
 - The project successfully classified articles into different political leans, providing insights into the political orientation of content in derStandard.
 - The analysis of reading behaviors across Austria highlighted regional differences in political article preferences.
 - Visualization techniques were employed to present the distribution of political leans across various channels and categories, offering a clear overview of the political landscape in Austrian media.
+
+If interested in the full results, please reach out!
