@@ -17,8 +17,10 @@ This project was performed in partnership with the Austrian newspaper, derStanda
 - The articles were then parsed from XML format, extracting relevant features such as text, title, and publishing date.
 - User location was assigned based on the users most frequently occuring location.
 
-This plot displays the location where users are accessing articles on the derStandard website.
-![austria_map](https://github.com/bhuebner3/Political-Bias-Detection/assets/73898316/576e97bb-dc8c-42cf-9000-0960816cebc0)
+This plot displays the location where users are accessing articles on the derStandard website. Note: as expected, the largest cities (Vienna, Linz, Graz, etc.) contain the largest share of clicks.
+
+![austria_map](https://github.com/bhuebner3/Political-Bias-Detection/assets/73898316/2655b54c-f131-4bc7-8560-40520e95dcad)
+
 
 
 ### Political Lean Prediction
